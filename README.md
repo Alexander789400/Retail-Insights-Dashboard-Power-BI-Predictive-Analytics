@@ -1,4 +1,4 @@
-# My_PowerBI_Project-2
+# Retail Sales and Customer Insights Dashboard Using PowerBI
 # Retail Shopping Data Analysis Report
 Introduction :
 The objective of this Power BI project is to analyze customer shopping behavior and identify key revenue trends across different dimensions such as gender, age, category, shopping malls, and payment methods.
